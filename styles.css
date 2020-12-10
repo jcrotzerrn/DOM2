@@ -1,0 +1,16 @@
+body {
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+.theDiv {
+    height:100px; 
+    width:100px; 
+    background-color: black; 
+    color: white; 
+    text-align: center;
+}
+
+.theDiv:hover {
+    color:white;
+}
